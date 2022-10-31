@@ -5,4 +5,4 @@ Implemented a three-way architecture for a WebAPI project. The project consists 
 - Business Layer (Logic layer)
 - Presentation Layer (API)
 
-The user can do CRUD operation over a database of Students.
+The user can do CRUD operations over a database of Students.
